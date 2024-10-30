@@ -1,0 +1,11 @@
+Authors and affiliations
+Tristan Kistler(1,2,3), Evert W. Brascamp(3)
+
+1 Université Paris-Saclay, INRAE, AgroParisTech, GABI, 78350 Jouy-en-Josas, France
+2 UMT PrADE, 84914 Avignon, France
+3 Wageningen University & Research, Animal Breeding and Genomics, P.O. Box 338, 6700 AH Wageningen, the Netherlands
+
+Author’s contributions
+EWB wrote the two subprograms integrated in R functions in the files ‘simu_function_Pim_pedigreev20.R’ and ‘simu_function_AMD-AINV-20.R’. 
+The rest was written by TK.
+
